@@ -2,7 +2,7 @@
 
 This project implements a **Python-based data ingestion and transformation pipeline** to retrieve global suicide rate data from the World Health Organization (WHO) public API.
 
-The workflow fetches structured JSON data, enriches it with country metadata, and produces an **analysis-ready dataset** suitable for reporting, research, or visualization.
+The workflow fetches structured JSON data, enriches it with country metadata, and produces an **analysis-ready dataset** suitable for reporting, research, or visualization. This script can be adapted to scrape similar structured websites.
 
 ---
 
